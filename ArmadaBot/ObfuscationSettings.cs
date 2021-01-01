@@ -1,5 +1,5 @@
 ﻿using System.Reflection;
 
-[assembly: Obfuscation(Feature = "a72b84zx", Exclude = false)]
+[assembly: Obfuscation(Feature = "123", Exclude = false)]
 
 // [System.Reflection.ObfuscationAttribute(Feature = "renaming", ApplyToMembers = true)]
